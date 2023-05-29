@@ -1,6 +1,19 @@
 
 > Otevřít tuto stránku v aplikaci [https://vojtechspratek.github.io/extensions-tutorial/](https://vojtechspratek.github.io/extensions-tutorial/)
 
+## Usage
+
+### ``plotAt``
+
+Use the ``plotAt`` block to render LEDs at a index location.
+
+```blocks
+for(let i = 0; i<25; i++){
+    screenMagic.plotAt(i)
+    basic.pause(500)   
+}
+```
+
 ## Použít jako rozšíření
 
 Toto úložiště lze přidat jako **rozšíření** v aplikaci MakeCode.
