@@ -18,12 +18,6 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 * klikněte na možnost **Import** a poté na **Import adresy URL**
 * vložte **https://github.com/vojtechspratek/extensions-tutorial** a klikněte na možnost import
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/vojtechspratek/extensions-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 
