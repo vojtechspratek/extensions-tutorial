@@ -3,7 +3,7 @@ namespace screenMagic{
         Address LEDs lineraly row first
      */
     //% blockId=screenmagicplotat
-    //% block="plit at index"
+    //% block="plot at $index"
     //% index.min=0 index.max=25
     export function plotAt(index: number): void{
         index |= 0
